@@ -5,7 +5,7 @@ This project requires a dataset of low-light note images (handwritten notes + wh
 
 ## 1) What Dataset We Need
 
-### A. Core Images (Required)
+### A. Core Images 
 **Goal:** Collect real-world photos of notes in poor lighting.
 
 - **Minimum (MVP):** 50 images  
@@ -18,7 +18,7 @@ This project requires a dataset of low-light note images (handwritten notes + wh
 - Printed pages
 - Mixed content (text + diagrams)
 
-**Why necessary:** These images are the primary training/evaluation input for low-light enhancement and OCR.
+These images are the primary training/evaluation input for low-light enhancement and OCR.
 
 
 
@@ -28,25 +28,23 @@ Capture images across multiple darkness levels:
 - **Dark:** typical low-light scenario  
 - **Moderate:** slightly dim conditions  
 
-**Why necessary:** The enhancement model and OCR pipeline must generalize across real lighting conditions and avoid over/under enhancement.
+The enhancement model and OCR pipeline must generalize across real lighting conditions and avoid over/under enhancement.
 
----
 
-### C. Variation / Real-World Conditions (Required)
-Ensure the dataset contains:
+
+### C. Variation / Real-World Conditions 
 - Multiple devices (phone/tablet/camera if possible)
 - Multiple angles (straight + tilted)
 - Multiple backgrounds (plain, lined paper, grid paper, colored boards)
 - Natural artifacts (shadows, glare/reflection, slight blur, creases)
 
-**Why necessary:** Prevents overfitting and makes the pipeline robust to real capture scenarios.
-
+Prevents overfitting and makes the pipeline robust to real capture scenarios.
 
 
 ## 2) Ground Truth Annotations (Required for Evaluation)
 
 ### A. Text Ground Truth
-Create ground truth **text transcriptions** for a subset of images (especially the test set).
+Create ground truth text transcriptions for a subset of images (especially the test set).
 - **Minimum:** 20 annotated images  
 - **Recommended:** 30–50 annotated images (test set)  
 
@@ -55,7 +53,7 @@ Create ground truth **text transcriptions** for a subset of images (especially t
 - `annotations/IMG_002.txt`
 - (or a single `ground_truth.csv` mapping `image_id → text`)
 
-**Why necessary:** Required to compute OCR metrics (e.g., **CER/WER**) and prove that enhancement improves OCR accuracy.
+Required to compute OCR metrics (e.g., **CER/WER**) and prove that enhancement improves OCR accuracy.
 
 **Important rules:**
 - Ground truth must match exactly what is written (including symbols where applicable).
@@ -63,7 +61,7 @@ Create ground truth **text transcriptions** for a subset of images (especially t
 
 
 
-## 3) Metadata Tracking (Required)
+## 3) Metadata Tracking 
 
 Create a metadata CSV file to track image properties.
 
@@ -87,7 +85,7 @@ Create a metadata CSV file to track image properties.
 
 
 
-## 4) Recommended Dataset Split (Required)
+## 4) Recommended Dataset Split 
 
 Use a standard split:
 - **Train:** 70%
@@ -96,7 +94,7 @@ Use a standard split:
 
 **Critical requirement:** The **test set** should have ground truth annotations.
 
-**Why necessary:** Prevents leakage/overfitting and provides a fair final evaluation.
+Prevents leakage/overfitting and provides a fair final evaluation.
 
 
 
@@ -116,7 +114,7 @@ Download public datasets to supplement training and compare to benchmarks.
 - FUNSD (document OCR baseline)
 - IAM Handwriting (handwriting evaluation)
 
-**Why useful:** Speeds up experimentation and strengthens comparison to established benchmarks.
+Speeds up experimentation and strengthens comparison to established benchmarks.
 
 
 
@@ -138,8 +136,6 @@ data/
 └── dataset_report.md
 ```
 
-**Why necessary:** Clean organization prevents mistakes and enables automated scripts for training/evaluation.
-
 
 
 ## 7) Quality Control Checklist (Required)
@@ -153,7 +149,6 @@ Before training/evaluation:
 - [ ] Verify annotations have no typos
 - [ ] Confirm test set is not used for training
 
-**Why necessary:** Data issues can silently break training and produce misleading metrics.
 
 
 ## 8) Minimum Viable Dataset (MVP)
@@ -164,4 +159,3 @@ If time is limited, aim for:
 -  `metadata.csv`
 -  defined train/val/test split
 
-This is enough to prototype the full pipeline and measure OCR improvement.
