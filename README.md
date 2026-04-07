@@ -94,19 +94,3 @@ See `requirements.txt` for exact versions.
 - **PNG Output**: Lossless format for better text preservation
 - **Metadata Analysis**: Identifies blurry or poorly lit images for quality control
 
-## Performance
-
-- Processes ~25 images/second on modern hardware
-- Maintains text readability through enhancement
-- Supports various input formats (JPG, PNG, JPEG, etc.)
-
-## Contributing
-
-1. Ensure all scripts run without errors
-2. Update requirements.txt if adding dependencies
-3. Test preprocessing pipeline on sample images
-4. Document any changes in this README
-
-## License
-
-[Add license information here]
