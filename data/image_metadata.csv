@@ -1,180 +1,180 @@
 image_id,filename,split,lighting,content_type,device,resolution,blur_score,annotated,notes
-9914d7a030,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (1).jpeg,test,moderate,mixed,Unknown,899x1599,220.48,no,none
-fea23ee86e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (1).jpg,train,moderate,mixed,samsung Galaxy A55 5G,4080x2296,31.7,no,blur
-2d92dd413e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (10).jpeg,train,moderate,mixed,Unknown,867x1156,697.73,no,none
-b14ff353a0,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (10).jpg,train,moderate,mixed,samsung Galaxy A55 5G,4080x2296,90.57,no,blur
-54d225f65c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (100).jpeg,train,moderate,mixed,Unknown,1280x960,867.87,no,none
-c0ca594f79,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (101).jpeg,train,moderate,mixed,Unknown,1280x960,1223.76,no,none
-1aa0f49cfd,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (102).jpeg,train,moderate,mixed,Unknown,1280x960,1293.86,no,none
-b8ecc765a1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (103).jpeg,train,moderate,mixed,Unknown,1200x1600,237.09,no,none
-884df803cd,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (104).jpeg,train,moderate,mixed,Unknown,1280x960,1439.04,no,none
-11b2294c18,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (105).jpeg,train,moderate,mixed,Unknown,1200x1600,824.59,no,none
-ed0a2bc973,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (106).jpeg,train,moderate,mixed,Unknown,1200x1600,710.95,no,none
-4a5b31d95a,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (107).jpeg,train,dark,handwritten,Unknown,960x1280,28.82,no,blur
-cf5b0d16ee,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (108).jpeg,test,dark,handwritten,Unknown,960x1280,19.55,no,blur
-1dd2db954c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (109).jpeg,train,moderate,mixed,Unknown,960x1280,1789.56,no,none
-07101d04eb,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (11).jpeg,val,moderate,printed,Unknown,867x1156,642.81,no,none
-9c4ad1f20a,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (11).jpg,val,moderate,mixed,samsung Galaxy A55 5G,4080x2296,31.48,no,blur
-095e3f1e6b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (110).jpeg,train,very_dark,handwritten,Unknown,960x1280,26.92,no,blur
-028c67a7d0,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (111).jpeg,test,moderate,mixed,Unknown,960x1280,1075.36,no,none
-9881b8128f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (112).jpeg,test,moderate,mixed,Unknown,960x1280,812.55,no,none
-4a3f3e9219,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (12).jpeg,train,moderate,whiteboard,Unknown,1165x1600,38.03,no,blur
-51715dd5b6,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (12).jpg,train,moderate,mixed,samsung Galaxy A55 5G,4080x2296,69.19,no,blur
-36cd53e337,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (13).jpeg,test,moderate,mixed,Unknown,720x1280,264.77,no,none
-59cf60b539,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (13).jpg,train,moderate,mixed,samsung Galaxy A55 5G,4080x2296,74.03,no,blur
-8bc2f97f66,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (14).jpeg,val,moderate,whiteboard,Unknown,1165x1600,38.03,no,blur
-91a62922ea,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (14).jpg,val,moderate,mixed,Unknown,899x1599,96.25,no,blur
-75fd7a5289,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (15).jpeg,test,moderate,mixed,Unknown,720x1280,264.77,no,none
-8db2588e53,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (15).jpg,test,moderate,mixed,Unknown,899x1599,344.4,no,none
-7200d6a1d1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (16).jpeg,train,moderate,whiteboard,Unknown,1051x1600,126.96,no,none
-883659b867,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (16).jpg,val,moderate,mixed,Unknown,1200x1600,288.85,no,none
-f96853c600,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (17).jpeg,val,moderate,mixed,Unknown,720x1280,189.92,no,none
-46100621ef,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (17).jpg,train,moderate,mixed,Unknown,663x1280,1210.82,no,none
-b8c671857b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (18).jpeg,train,moderate,mixed,Unknown,720x1280,219.21,no,none
-f5b683915b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (18).jpg,val,moderate,mixed,Unknown,960x1280,204.53,no,none
-e039d3f94f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (19).jpeg,train,moderate,mixed,Unknown,720x1280,284.89,no,none
-1ece2687f9,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (19).jpg,train,moderate,printed,Unknown,899x1599,429.26,no,none
-dcae77a08a,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (2).jpeg,train,moderate,mixed,Unknown,899x1599,568.04,no,none
-894bba7a45,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (2).jpg,train,moderate,mixed,samsung Galaxy A55 5G,4080x2296,54.63,no,blur
-cc6968d0d9,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (20).jpeg,train,moderate,mixed,Unknown,720x1280,244.07,no,none
-26f000cb73,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (20).jpg,test,moderate,mixed,Unknown,899x1599,235.64,no,none
-e53bb608c5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (21).jpeg,train,moderate,mixed,Unknown,720x1280,329.16,no,none
-2134779ef6,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (21).jpg,train,moderate,mixed,Unknown,899x1599,83.68,no,blur
-5777ffe94d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (22).jpeg,train,moderate,mixed,Unknown,720x1280,493.78,no,none
-9fb4b382cf,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (22).jpg,val,moderate,mixed,Unknown,900x1600,122.0,no,none
-72e7cef17a,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (23).jpeg,val,moderate,mixed,Unknown,720x1280,376.92,no,none
-f3d2efded5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (23).jpg,train,moderate,mixed,Unknown,1200x1600,205.01,no,none
-5578186057,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (24).jpeg,train,moderate,mixed,Unknown,720x1280,383.85,no,none
-e600077c5e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (24).jpg,test,moderate,mixed,Unknown,899x1599,462.98,no,glare
-afc1e5cfce,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (25).jpeg,train,moderate,mixed,Unknown,777x1280,107.83,no,none
-90dc94a620,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (25).jpg,train,moderate,mixed,Unknown,1280x960,131.64,no,none
-2e05d54552,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (26).jpeg,val,moderate,mixed,Unknown,777x1280,107.83,no,none
-42f2c106d8,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (26).jpg,train,moderate,mixed,Unknown,900x1600,207.1,no,none
-13b8defb23,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (27).jpeg,train,moderate,mixed,Unknown,720x1280,89.93,no,blur
-5c6caefed7,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (27).jpg,train,moderate,mixed,Unknown,899x1599,459.36,no,none
-1836de22ca,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (28).jpeg,train,moderate,mixed,Unknown,720x1280,113.87,no,none
-d2eaedb43f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (28).jpg,train,moderate,mixed,Unknown,1200x1600,109.6,no,none
-d5819e3c38,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (29).jpeg,train,moderate,mixed,Unknown,720x1280,75.7,no,blur
-e899cd1614,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (29).jpg,val,moderate,mixed,Unknown,1200x1600,266.09,no,none
-b44bda38a0,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (3).jpeg,train,moderate,mixed,Unknown,899x1599,150.72,no,none
-7157584bd7,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (3).jpg,test,moderate,mixed,samsung Galaxy A55 5G,4080x2296,124.56,no,none
-7e84cc9943,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (30).jpeg,val,moderate,mixed,Unknown,720x1280,109.92,no,none
-e43026ce4c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (30).jpg,val,moderate,mixed,Unknown,1200x1600,254.46,no,none
-6ed097048d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (31).jpeg,train,moderate,mixed,Unknown,720x1280,137.8,no,none
-d86850eb36,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (31).jpg,train,moderate,mixed,Unknown,1280x1188,354.07,no,none
-504b9179c9,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (32).jpeg,train,moderate,mixed,Unknown,720x1280,93.37,no,blur
-ad92d52386,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (32).jpg,train,moderate,mixed,Unknown,899x1599,379.87,no,none
-e92fd52135,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (33).jpeg,train,moderate,mixed,Unknown,720x1280,231.81,no,none
-6bac1a4a78,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (33).jpg,train,moderate,mixed,Unknown,899x1599,177.96,no,none
-683d827714,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (34).jpeg,test,moderate,mixed,Unknown,720x1280,204.21,no,none
-b9e36a6162,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (34).jpg,train,moderate,mixed,Unknown,1200x1600,242.03,no,none
-fd480a66cc,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (35).jpeg,val,moderate,mixed,Unknown,720x1280,100.84,no,none
-6cdbcf4c88,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (35).jpg,train,moderate,mixed,Unknown,1200x1600,57.18,no,blur
-69b8a89384,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (36).jpeg,train,moderate,mixed,Unknown,720x1280,102.84,no,none
-08d664729e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (36).jpg,test,moderate,mixed,Unknown,1200x1600,70.28,no,blur
-20133fe779,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (37).jpeg,test,moderate,mixed,Unknown,720x1280,153.1,no,none
-fe86ebf29a,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (37).jpg,train,moderate,printed,Unknown,900x1600,534.36,no,none
-a2ab3b7de0,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (38).jpeg,train,moderate,mixed,Unknown,720x1280,86.18,no,blur
-a56cd83d21,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (38).jpg,train,moderate,mixed,Unknown,1200x1600,202.02,no,none
-ab0debc632,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (39).jpeg,train,moderate,mixed,Unknown,720x1280,181.71,no,none
-adfe7583f8,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (39).jpg,train,moderate,printed,Unknown,720x1280,781.71,no,none
-30d42924c1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (4).jpeg,test,moderate,mixed,Unknown,867x1156,724.47,no,none
-1530eb54c5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (4).jpg,val,moderate,mixed,samsung Galaxy A55 5G,4080x2296,119.54,no,none
-db37ee65fe,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (40).jpeg,train,moderate,mixed,Unknown,720x1280,77.84,no,blur
-ebddee883c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (40).jpg,val,moderate,mixed,Unknown,1600x1200,297.44,no,none
-4ef853412f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (41).jpeg,train,moderate,mixed,Unknown,720x1280,182.66,no,none
-d86a8fa98c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (41).jpg,train,moderate,mixed,Unknown,720x1280,480.11,no,none
-9fb2c9ca16,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (42).jpeg,test,moderate,mixed,Unknown,948x1374,279.48,no,none
-f95e3cb5d2,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (42).jpg,train,moderate,mixed,Unknown,720x1280,570.73,no,none
-4a0c14d0f5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (43).jpeg,test,moderate,handwritten,Unknown,720x1600,271.19,no,glare
-50fef955f2,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (43).jpg,val,moderate,printed,Unknown,720x1280,879.27,no,none
-1ddea18367,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (44).jpeg,val,moderate,mixed,Unknown,1228x1320,170.51,no,none
-87bfb52312,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (44).jpg,train,moderate,mixed,Unknown,1600x1200,266.08,no,none
-ce3d69ce0e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (45).jpeg,train,moderate,handwritten,Unknown,720x1600,242.72,no,none
-0068b9e65b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (45).jpg,train,moderate,mixed,Unknown,1600x1200,182.74,no,none
-aef29f5ebe,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (46).jpeg,test,moderate,handwritten,Unknown,720x1600,260.07,no,glare
-fda2e7c383,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (46).jpg,train,moderate,mixed,Unknown,1600x1200,232.54,no,none
-d789b4caf6,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (47).jpeg,val,moderate,handwritten,Unknown,720x1600,280.69,no,glare
-8c73abe2ce,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (47).jpg,train,moderate,mixed,Unknown,1600x1200,236.58,no,none
-75b5d4b01b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (48).jpeg,train,moderate,mixed,Unknown,1280x960,294.14,no,none
-0961f2ed99,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (48).jpg,train,moderate,mixed,Unknown,1600x1200,317.09,no,none
-6baa307577,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (49).jpeg,train,moderate,mixed,Unknown,1280x960,491.76,no,none
-a9c0363549,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (49).jpg,train,moderate,printed,Unknown,900x1600,305.05,no,none
-a08041275b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (5).jpeg,train,moderate,printed,Unknown,867x1156,341.58,no,none
-83014eec01,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (5).jpg,train,moderate,mixed,samsung Galaxy A55 5G,4080x2296,157.64,no,none
-0483be44bf,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (50).jpeg,val,moderate,mixed,Unknown,1280x960,235.66,no,none
-d7edd39e97,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (50).jpg,train,moderate,mixed,Unknown,1200x1600,62.05,no,blur
-88348c4fe4,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (51).jpeg,train,moderate,mixed,Unknown,1280x960,218.64,no,none
-5c25c78c9e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (51).jpg,train,moderate,mixed,Unknown,1200x1600,134.39,no,none
-54b296f087,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (52).jpeg,val,moderate,handwritten,Unknown,1600x900,685.9,no,none
-1f421ebb5d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (52).jpg,train,moderate,mixed,Unknown,1200x1600,206.7,no,none
-e6f24f36ab,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (53).jpeg,train,dark,handwritten,Unknown,1600x900,647.28,no,none
-2c3b4600e6,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (53).jpg,val,moderate,mixed,Unknown,1200x1600,323.08,no,none
-2a0f98905c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (54).jpeg,train,moderate,mixed,Unknown,1600x720,276.32,no,none
-3d2714f910,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (54).jpg,train,moderate,mixed,Unknown,1598x1600,197.78,no,none
-c0f0278c4e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (55).jpeg,train,moderate,handwritten,Unknown,1600x720,286.59,no,none
-8cdb7d1c71,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (56).jpeg,train,moderate,handwritten,Unknown,1600x900,608.95,no,none
-63f36c9037,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (57).jpeg,test,moderate,mixed,Unknown,1600x1200,100.56,no,none
-1fdaf760ce,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (58).jpeg,train,moderate,mixed,Unknown,1600x1200,287.46,no,none
-5cab1fbf07,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (59).jpeg,train,moderate,mixed,Unknown,1600x720,190.67,no,none
-aaf2883a75,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (6).jpeg,train,moderate,printed,Unknown,867x1156,341.58,no,none
-8e63d3c3bb,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (6).jpg,train,moderate,mixed,samsung Galaxy A55 5G,4080x2296,137.17,no,none
-57772a59fe,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (60).jpeg,train,moderate,mixed,Unknown,1600x1200,151.18,no,none
-c3c429d396,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (61).jpeg,train,moderate,mixed,Unknown,1600x1200,200.08,no,none
-6d1335d532,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (62).jpeg,train,moderate,mixed,Unknown,1600x1200,262.48,no,none
-d4add7e3b9,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (63).jpeg,train,moderate,mixed,Unknown,1600x1200,208.73,no,none
-84763ac4d7,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (64).jpeg,train,moderate,mixed,Unknown,1600x1200,262.48,no,none
-2d7411a2cd,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (65).jpeg,train,moderate,mixed,Unknown,1600x1200,208.73,no,none
-7cbe376ab0,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (66).jpeg,train,moderate,mixed,Unknown,1600x1200,197.22,no,none
-566ad9d508,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (67).jpeg,train,moderate,mixed,Unknown,720x1280,653.72,no,none
-dd813c8000,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (68).jpeg,train,moderate,mixed,Unknown,720x1280,635.28,no,none
-8c1112241e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (69).jpeg,train,moderate,mixed,Unknown,1600x1200,254.95,no,none
-e609bd7e8e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (7).jpeg,train,moderate,printed,Unknown,867x1156,304.0,no,none
-39d47a1ac7,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (7).jpg,train,moderate,mixed,samsung Galaxy A55 5G,4080x2296,128.01,no,none
-566684edda,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (70).jpeg,train,moderate,mixed,Unknown,720x1280,653.72,no,none
-75ac04d73a,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (71).jpeg,train,moderate,mixed,Unknown,720x1280,635.28,no,none
-ad6e138182,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (72).jpeg,train,moderate,mixed,Unknown,1600x1200,254.95,no,none
-fde76e2868,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (73).jpeg,train,moderate,mixed,Unknown,899x1599,435.2,no,none
-1ba8ce28b1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (74).jpeg,train,moderate,mixed,Unknown,899x1599,464.07,no,none
-a841d203ec,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (75).jpeg,train,moderate,mixed,Unknown,899x1599,391.76,no,none
-120f69516d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (76).jpeg,train,moderate,mixed,Unknown,899x1599,435.2,no,none
-5c58b1f3da,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (77).jpeg,train,moderate,mixed,Unknown,899x1599,464.07,no,none
-626027d887,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (78).jpeg,train,moderate,mixed,Unknown,899x1599,391.76,no,none
-d7b21591cb,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (79).jpeg,test,moderate,handwritten,Unknown,1280x720,363.42,no,none
-9fc8b25033,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (8).jpeg,test,moderate,printed,Unknown,867x1156,729.14,no,none
-066430bf95,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (8).jpg,train,moderate,mixed,samsung Galaxy A55 5G,4080x2296,171.23,no,none
-0f12b1e1a0,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (80).jpeg,test,moderate,mixed,Unknown,899x1599,97.08,no,blur
-878b19a5a9,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (81).jpeg,train,moderate,handwritten,Unknown,1280x720,363.42,no,none
-b7d40b502c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (82).jpeg,test,moderate,mixed,Unknown,899x1599,97.08,no,blur
-115821c33a,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (83).jpeg,train,moderate,mixed,Unknown,1280x1280,141.88,no,glare
-982dad3025,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (84).jpeg,test,moderate,mixed,Unknown,1280x1280,75.63,no,blur
-1e427f0bf5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (85).jpeg,train,moderate,mixed,Unknown,1280x1280,148.48,no,none
-14e446a797,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (86).jpeg,train,moderate,mixed,Unknown,1280x1280,59.05,no,blur
-07f326d1b7,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (87).jpeg,train,moderate,handwritten,Unknown,4096x2304,169.21,no,none
-857faaa9a8,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (88).jpeg,val,moderate,mixed,Unknown,1280x963,511.69,no,glare
-20c61561ae,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (89).jpeg,train,moderate,mixed,Unknown,4096x2304,45.15,no,blur
-02535bf493,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (9).jpeg,train,moderate,printed,Unknown,867x1156,729.14,no,none
-fcbc95881d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (9).jpg,train,dark,handwritten,samsung Galaxy A55 5G,4080x2296,32.96,no,blur
-0849b01375,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (90).jpeg,test,moderate,mixed,Unknown,1600x1200,71.77,no,blur
-2937b7d717,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (91).jpeg,train,dark,handwritten,Unknown,4096x2304,130.01,no,none
-fbc452452f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (92).jpeg,val,moderate,mixed,Unknown,1600x1200,76.83,no,blur
-8b31eb89cd,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (93).jpeg,test,moderate,mixed,Unknown,1600x1200,50.07,no,blur
-e8e65259a9,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (94).jpeg,test,moderate,mixed,Unknown,1280x960,618.99,no,none
-b10fbc5963,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (95).jpeg,val,moderate,mixed,Unknown,1280x960,485.43,no,none
-d67c24eef8,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (96).jpeg,train,moderate,mixed,Unknown,899x1599,151.6,no,none
-02540223ac,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (97).jpeg,train,moderate,mixed,Unknown,1280x960,481.48,no,none
-b24184330b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (98).jpeg,train,moderate,whiteboard,Unknown,741x1280,816.95,no,none
-3f4ff9951a,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\hey (99).jpeg,train,moderate,mixed,Unknown,1200x1600,634.85,no,none
-872f736e9f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.18.15.jpeg,train,dark,handwritten,Unknown,715x1600,111.01,no,shadow
-b133cf3dde,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.19.09 (1).jpeg,train,dark,handwritten,Unknown,715x1600,274.3,no,none
-8f4bfc045d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.19.09.jpeg,test,dark,handwritten,Unknown,715x1600,192.35,no,shadow
-8a25fa2be8,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.20.38.jpeg,train,dark,handwritten,Unknown,715x1600,147.44,no,shadow
-ef212b18ff,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.20.39.jpeg,val,moderate,handwritten,Unknown,715x1600,422.29,no,none
-1a4c2603ff,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.23.01.jpeg,train,dark,handwritten,Unknown,715x1600,81.52,no,"blur, shadow"
-fa22194dd7,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.23.02.jpeg,train,dark,handwritten,Unknown,715x1600,87.92,no,"blur, shadow"
-0351e95dae,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.23.03 (1).jpeg,train,dark,handwritten,Unknown,715x1600,143.28,no,shadow
-4d01fc1e6e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.23.03.jpeg,train,dark,handwritten,Unknown,715x1600,138.32,no,shadow
-d54c0a66d3,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.25.03 (1).jpeg,train,dark,handwritten,Unknown,715x1600,78.16,no,"blur, shadow"
-2a86bb4591,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.25.03.jpeg,train,very_dark,handwritten,Unknown,715x1600,16.78,no,"blur, shadow"
-1b67016485,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.25.04.jpeg,train,dark,handwritten,Unknown,1600x715,227.15,no,shadow
-ea11cd04fd,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\data\ZERO DCE DATASET\WhatsApp Image 2026-04-06 at 22.25.42.jpeg,test,dark,handwritten,Unknown,715x1600,57.1,no,"blur, shadow"
+4f72d50686,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_111355.png,test,dark,handwritten,Unknown,512x512,1303.63,no,none
+4f562968a5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_111359.png,train,dark,handwritten,Unknown,512x512,2125.59,no,none
+3e69016889,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_111407.png,train,moderate,handwritten,Unknown,512x512,4191.46,no,glare
+a7fa050b02,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_111410.png,train,moderate,handwritten,Unknown,512x512,5201.23,no,glare
+6ee72755c4,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_111419.png,train,moderate,handwritten,Unknown,512x512,6498.56,no,glare
+795895f693,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_111448.png,train,moderate,handwritten,Unknown,512x512,4611.24,no,glare
+358f001d20,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_111503.png,train,moderate,handwritten,Unknown,512x512,5907.93,no,glare
+a64e7478c1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_111517.png,train,moderate,handwritten,Unknown,512x512,3866.42,no,glare
+99323fb81f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_111528.png,train,dark,handwritten,Unknown,512x512,1994.63,no,none
+66c505afd1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_111816.png,train,moderate,handwritten,Unknown,512x512,3503.21,no,glare
+8d71144b15,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_112022.png,train,dark,handwritten,Unknown,512x512,1421.17,no,none
+250b266583,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_112035.png,train,dark,handwritten,Unknown,512x512,2797.95,no,none
+ae7abe3e48,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\20260326_112054.png,test,moderate,handwritten,Unknown,512x512,4564.48,no,glare
+00e7e44427,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0024.png,train,dark,handwritten,Unknown,512x512,1277.84,no,none
+af4f986f86,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0026.png,val,dark,handwritten,Unknown,512x512,1577.64,no,none
+a860172609,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0027.png,val,moderate,handwritten,Unknown,512x512,1458.06,no,glare
+e89c2c48cc,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0029.png,train,dark,handwritten,Unknown,512x512,5236.59,no,none
+602b9d8382,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0030.png,test,moderate,mixed,Unknown,512x512,1724.89,no,glare
+42cbd20ee0,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0031.png,test,moderate,handwritten,Unknown,512x512,4175.86,no,glare
+906f265a54,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0032.png,train,moderate,handwritten,Unknown,512x512,5501.67,no,glare
+f4f0a2f7ca,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0033.png,train,moderate,handwritten,Unknown,512x512,1317.1,no,glare
+5efc562039,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0035.png,test,moderate,handwritten,Unknown,512x512,3059.25,no,glare
+2548533ff1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0036.png,train,moderate,mixed,Unknown,512x512,2502.72,no,glare
+052751b8e9,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0038.png,val,dark,handwritten,Unknown,512x512,2197.12,no,none
+b93ebeb2d3,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0039.png,val,moderate,mixed,Unknown,512x512,1353.93,no,glare
+2672532f01,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0042.png,test,moderate,handwritten,Unknown,512x512,2796.49,no,glare
+d5685169f5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0043.png,test,moderate,handwritten,Unknown,512x512,6802.25,no,glare
+ed6dd62644,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0047.png,train,moderate,mixed,Unknown,512x512,2734.73,no,none
+2323ebf920,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0048.png,val,moderate,mixed,Unknown,512x512,2111.82,no,glare
+011fe38ab4,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0049.png,val,moderate,mixed,Unknown,512x512,2006.59,no,glare
+5452ab14d6,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0050.png,train,moderate,mixed,Unknown,512x512,5274.91,no,glare
+a9940c0664,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0052.png,train,dark,handwritten,Unknown,512x512,3134.76,no,none
+5f321466db,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0056.png,val,moderate,handwritten,Unknown,512x512,4321.89,no,glare
+6df2d85287,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0057.png,train,moderate,mixed,Unknown,512x512,3101.15,no,glare
+04ea839406,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0059.png,train,moderate,mixed,Unknown,512x512,1530.91,no,glare
+397be5fb97,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0060.png,train,moderate,mixed,Unknown,512x512,1373.89,no,glare
+d0ca840999,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0061.png,train,moderate,handwritten,Unknown,512x512,2994.18,no,glare
+be14b81ebd,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0062.png,train,moderate,mixed,Unknown,512x512,2035.68,no,glare
+0406e437f2,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0063.png,test,moderate,handwritten,Unknown,512x512,7122.09,no,glare
+060d4afcc9,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0065.png,train,moderate,mixed,Unknown,512x512,2746.29,no,glare
+89d40a17f8,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0066.png,train,moderate,handwritten,Unknown,512x512,5505.06,no,glare
+c9d883ce1f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0067.png,train,moderate,handwritten,Unknown,512x512,5491.49,no,glare
+03b7b6e586,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0068.png,val,moderate,handwritten,Unknown,512x512,7535.69,no,glare
+83f9c2c732,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0069.png,val,moderate,mixed,Unknown,512x512,3979.15,no,none
+437b388f46,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0070.png,train,moderate,mixed,Unknown,512x512,3540.85,no,none
+01efa9a0aa,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0071.png,train,moderate,mixed,Unknown,512x512,3602.74,no,none
+e137886b40,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0073.png,test,moderate,handwritten,Unknown,512x512,3096.77,no,none
+b725ec50d5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0074.png,train,moderate,handwritten,Unknown,512x512,3954.1,no,none
+bcb18de587,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0075.png,train,moderate,handwritten,Unknown,512x512,2588.84,no,glare
+d6ce55b54f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0077.png,val,moderate,mixed,Unknown,512x512,1322.84,no,glare
+b9b4252b04,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0078.png,train,moderate,mixed,Unknown,512x512,2738.51,no,glare
+05f8c4049b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0079.png,train,moderate,mixed,Unknown,512x512,3287.91,no,glare
+5361b16b4c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0082.png,train,moderate,mixed,Unknown,512x512,2508.6,no,glare
+5512dae05e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\IMG-20260328-WA0084.png,train,moderate,mixed,Unknown,512x512,6052.94,no,none
+bb06854535,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.54.png,train,moderate,handwritten,Unknown,512x512,3145.39,no,glare
+103c0e3e4c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.55 (1).png,train,moderate,handwritten,Unknown,512x512,4425.72,no,glare
+d65053c63d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.55.png,val,moderate,handwritten,Unknown,512x512,2425.86,no,glare
+c1b6e3caf4,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.56 (1).png,train,moderate,handwritten,Unknown,512x512,4998.27,no,glare
+9dda3b371d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.56 (2)(1).png,test,moderate,handwritten,Unknown,512x512,2894.32,no,glare
+fa3809328f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.56 (2).png,val,moderate,handwritten,Unknown,512x512,2894.32,no,glare
+73ef917b3d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.56.png,val,moderate,handwritten,Unknown,512x512,2753.52,no,glare
+7608e97240,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.57 (1)(1).png,train,moderate,handwritten,Unknown,512x512,5797.58,no,glare
+f71b9cd79f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.57 (1).png,train,moderate,handwritten,Unknown,512x512,5797.58,no,glare
+24dc7c2050,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.57 (2).png,train,moderate,handwritten,Unknown,512x512,4288.35,no,glare
+e5a77c9596,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.57.png,train,moderate,handwritten,Unknown,512x512,4977.17,no,glare
+2eeacea2cd,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.58 (1).png,train,moderate,handwritten,Unknown,512x512,1241.53,no,glare
+aabc7318bf,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.58 (2).png,train,dark,handwritten,Unknown,512x512,3203.01,no,none
+0df29e1172,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.58 (3).png,test,moderate,handwritten,Unknown,512x512,1241.53,no,glare
+a9bb68c20e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.58 (4).png,train,dark,handwritten,Unknown,512x512,3203.01,no,none
+dfce25cd5e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.58.png,val,moderate,handwritten,Unknown,512x512,2933.93,no,glare
+9fe0f62bf3,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.59 (1).png,train,dark,handwritten,Unknown,512x512,1668.27,no,none
+4765b36701,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.59 (2).png,train,dark,handwritten,Unknown,512x512,1864.17,no,none
+c42c61554c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.31.59.png,test,dark,handwritten,Unknown,512x512,2687.33,no,none
+1a581103bd,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.00 (1).png,test,dark,handwritten,Unknown,512x512,2308.78,no,none
+1a7d50f7ac,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.00.png,train,dark,handwritten,Unknown,512x512,3328.72,no,none
+9d95053c58,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.01 (1).png,train,dark,handwritten,Unknown,512x512,3792.44,no,none
+f3efffaa13,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.01 (2).png,train,dark,handwritten,Unknown,512x512,3398.62,no,none
+346f8d9762,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.01.png,train,dark,handwritten,Unknown,512x512,3315.21,no,none
+82d1e13149,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.02 (1).png,train,moderate,handwritten,Unknown,512x512,1381.68,no,glare
+2934f4f062,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.02 (2).png,test,moderate,handwritten,Unknown,512x512,1381.68,no,glare
+15277da223,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.02.png,val,dark,handwritten,Unknown,512x512,1397.13,no,none
+50e634eea7,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.03 (1).png,train,dark,handwritten,Unknown,512x512,1306.64,no,none
+53d6c4a6b5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.03.png,val,dark,handwritten,Unknown,512x512,1127.66,no,none
+cf4224266d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.04.png,train,dark,handwritten,Unknown,512x512,1264.65,no,none
+e296f7e390,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.05 (1).png,train,dark,handwritten,Unknown,512x512,1457.85,no,none
+59dd2adf55,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.05.png,test,dark,handwritten,Unknown,512x512,1079.97,no,none
+2ed0c73483,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.06 (1).png,train,dark,handwritten,Unknown,512x512,2300.66,no,none
+c8ff8896f1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.06 (2).png,test,dark,handwritten,Unknown,512x512,2085.48,no,none
+b14f779572,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.06.png,val,dark,handwritten,Unknown,512x512,1141.17,no,none
+5778dc39d8,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.07 (1).png,val,moderate,handwritten,Unknown,512x512,1235.09,no,glare
+f90cf9cda2,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.07.png,train,moderate,handwritten,Unknown,512x512,1388.87,no,glare
+037845cee4,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.08 (1).png,train,moderate,handwritten,Unknown,512x512,929.14,no,glare
+f9a0408da3,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.08 (2).png,train,moderate,handwritten,Unknown,512x512,1499.81,no,glare
+8e464128f3,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.08.png,test,moderate,handwritten,Unknown,512x512,875.89,no,glare
+12ffa579ee,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.32.09.png,train,moderate,handwritten,Unknown,512x512,1872.4,no,glare
+e38f9f08f1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.35 (1).png,val,moderate,handwritten,Unknown,512x512,4457.32,no,glare
+6f024078a1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.35 (2).png,train,dark,handwritten,Unknown,512x512,2205.27,no,none
+233121b3b5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.35.png,train,moderate,handwritten,Unknown,512x512,2772.49,no,none
+b9a935ca3c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.36 (1).png,train,very_dark,handwritten,Unknown,512x512,1831.51,no,none
+deb1c8d01e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.36 (2).png,train,dark,handwritten,Unknown,512x512,2044.71,no,none
+b162707822,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.36.png,train,dark,handwritten,Unknown,512x512,2231.13,no,none
+b7a892598b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.37.png,train,moderate,handwritten,Unknown,512x512,3515.81,no,glare
+f57307f571,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.38 (1).png,train,moderate,handwritten,Unknown,512x512,5327.09,no,glare
+193e57a4c7,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.38 (2).png,val,moderate,handwritten,Unknown,512x512,3925.08,no,glare
+6909978dfc,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.38.png,train,moderate,handwritten,Unknown,512x512,2843.97,no,none
+76ed4aac67,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.39 (1).png,train,dark,handwritten,Unknown,512x512,4495.98,no,none
+33b9e77159,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.39.png,train,dark,handwritten,Unknown,512x512,5462.69,no,none
+4cc2537a8e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.40 (1).png,val,dark,handwritten,Unknown,512x512,3186.81,no,none
+7c7c98fd3e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.40 (2).png,train,dark,handwritten,Unknown,512x512,3230.44,no,none
+0799f577e8,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.40.png,train,dark,handwritten,Unknown,512x512,3796.5,no,none
+52ecdec682,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.41 (1).png,val,moderate,handwritten,Unknown,512x512,3564.08,no,none
+8f57e18484,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.41 (2).png,train,moderate,handwritten,Unknown,512x512,6044.43,no,glare
+97a755c477,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.41.png,train,dark,handwritten,Unknown,512x512,2337.05,no,none
+5d50aea374,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.42 (1).png,train,moderate,handwritten,Unknown,512x512,3730.31,no,none
+3bb4512daf,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.42.png,train,moderate,handwritten,Unknown,512x512,5681.98,no,glare
+3120c7928b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.43 (1).png,test,moderate,handwritten,Unknown,512x512,4522.55,no,glare
+76d5acb2bf,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.43 (2).png,train,moderate,handwritten,Unknown,512x512,5022.84,no,none
+0239180d22,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.43 (3).png,train,moderate,handwritten,Unknown,512x512,4522.55,no,glare
+6152b12682,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.43 (4).png,train,moderate,handwritten,Unknown,512x512,5022.84,no,none
+60cbfb5dd5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.43.png,train,moderate,handwritten,Unknown,512x512,5117.16,no,glare
+2ddc414b11,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.44 (1).png,train,dark,handwritten,Unknown,512x512,2822.73,no,none
+0959892fd1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.44 (2).png,train,dark,handwritten,Unknown,512x512,2857.64,no,none
+c5c31735d9,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.44 (3).png,train,moderate,handwritten,Unknown,512x512,6827.57,no,none
+06d13f2bcd,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.44 (4).png,train,dark,handwritten,Unknown,512x512,2822.73,no,none
+078c15b33e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.44 (5).png,train,dark,handwritten,Unknown,512x512,2857.64,no,none
+f80dd50e0f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.44.png,train,moderate,handwritten,Unknown,512x512,6827.57,no,none
+d2f8fd39aa,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.45 (1).png,train,dark,handwritten,Unknown,512x512,3387.98,no,none
+76a6fbd4f9,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.45 (2).png,train,dark,handwritten,Unknown,512x512,3333.71,no,none
+13bc4afd22,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.45 (3).png,train,dark,handwritten,Unknown,512x512,2916.3,no,none
+92d7fcecb2,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.45 (4).png,train,dark,handwritten,Unknown,512x512,3387.98,no,none
+57638d8c99,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.45 (5).png,train,dark,handwritten,Unknown,512x512,3333.71,no,none
+bcd0ac25f9,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.45.png,train,dark,handwritten,Unknown,512x512,2916.3,no,none
+68719b41ad,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.46 (1).png,train,dark,handwritten,Unknown,512x512,2483.89,no,none
+8a7124222e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.46 (2).png,train,dark,handwritten,Unknown,512x512,1582.11,no,none
+5f6fb4c102,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.46 (3).png,train,dark,handwritten,Unknown,512x512,2483.89,no,none
+b516d3810e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.46.png,train,dark,handwritten,Unknown,512x512,1582.11,no,none
+707fa15fd1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.47 (1).png,train,moderate,handwritten,Unknown,512x512,2813.1,no,none
+87d2408e18,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.47 (2).png,train,moderate,handwritten,Unknown,512x512,2207.93,no,none
+839e3d42d0,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.47.png,train,moderate,handwritten,Unknown,512x512,3565.88,no,none
+37f80dce40,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.48 (1).png,train,moderate,handwritten,Unknown,512x512,1691.36,no,none
+6951c58159,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.48 (2).png,train,dark,handwritten,Unknown,512x512,4786.26,no,none
+d9c183e0d7,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.48.png,test,moderate,handwritten,Unknown,512x512,5129.08,no,glare
+9cc7b1edff,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.49 (1).png,test,dark,handwritten,Unknown,512x512,2333.27,no,none
+1739ec54eb,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.49 (2).png,train,moderate,handwritten,Unknown,512x512,3023.32,no,glare
+d26b88456c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.49.png,test,dark,handwritten,Unknown,512x512,3783.49,no,none
+9d637cba3d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.50 (1).png,train,moderate,handwritten,Unknown,512x512,3378.64,no,glare
+876df2036c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.50.png,test,moderate,handwritten,Unknown,512x512,2380.39,no,glare
+e249bc1a04,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.51 (1).png,train,moderate,handwritten,Unknown,512x512,5492.77,no,glare
+563b29aba1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.51.png,test,moderate,handwritten,Unknown,512x512,4919.67,no,none
+7028d9468d,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.52 (1).png,train,moderate,handwritten,Unknown,512x512,2613.65,no,glare
+2d108b56ea,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.52.png,train,moderate,handwritten,Unknown,512x512,4612.82,no,none
+a1d3c3dd74,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 15.38.53.png,train,moderate,handwritten,Unknown,512x512,5169.27,no,glare
+b782ba4d70,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 16.26.11.png,val,moderate,handwritten,Unknown,512x512,5239.38,no,glare
+6cf5c9a91e,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 16.30.09 (1).png,train,moderate,handwritten,Unknown,512x512,3848.38,no,glare
+5be8adb167,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 16.30.09.png,train,moderate,handwritten,Unknown,512x512,5030.24,no,glare
+c9cfa62c8c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 16.30.10.png,train,moderate,handwritten,Unknown,512x512,5296.28,no,glare
+3395410807,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 16.30.11 (1).png,test,moderate,handwritten,Unknown,512x512,2963.76,no,glare
+ea11544108,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 16.30.11.png,train,moderate,handwritten,Unknown,512x512,6005.55,no,glare
+516a1e816b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 16.30.12 (1).png,val,moderate,handwritten,Unknown,512x512,4826.85,no,glare
+016da34764,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-03-28 at 16.30.12.png,test,moderate,handwritten,Unknown,512x512,4229.88,no,glare
+b1be826e5b,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-02 at 18.39.29.png,test,dark,handwritten,Unknown,512x512,795.57,no,none
+5021d29a71,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-02 at 18.39.30 (1).png,val,dark,handwritten,Unknown,512x512,714.55,no,none
+de9e5dbf30,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-02 at 18.39.30.png,train,moderate,handwritten,Unknown,512x512,12605.71,no,glare
+1b0371ad60,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-02 at 18.39.31 (1).png,train,dark,handwritten,Unknown,512x512,706.3,no,none
+66499525f6,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-02 at 18.39.31.png,train,moderate,handwritten,Unknown,512x512,8514.69,no,none
+dfa518f207,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-02 at 18.39.32.png,train,moderate,handwritten,Unknown,512x512,8655.08,no,glare
+d5f2032ade,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.18.15.png,train,very_dark,handwritten,Unknown,512x512,982.95,no,none
+369e876544,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.19.09 (1).png,train,dark,handwritten,Unknown,512x512,2176.68,no,none
+513393bdf5,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.19.09.png,test,dark,handwritten,Unknown,512x512,2609.85,no,none
+fb3afd48a4,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.20.38.png,train,dark,handwritten,Unknown,512x512,1489.23,no,none
+31485117de,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.20.39.png,val,dark,handwritten,Unknown,512x512,1440.4,no,none
+89dc666e99,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.23.01.png,train,very_dark,handwritten,Unknown,512x512,1217.16,no,none
+f3a855e41c,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.23.02.png,train,dark,handwritten,Unknown,512x512,1394.25,no,none
+9c584a467a,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.23.03 (1).png,train,dark,handwritten,Unknown,512x512,1754.16,no,none
+078a218d97,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.23.03.png,train,very_dark,handwritten,Unknown,512x512,982.16,no,none
+6ca156b2e2,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.25.03 (1).png,train,very_dark,handwritten,Unknown,512x512,1400.2,no,none
+94d33ec32f,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.25.03.png,train,very_dark,handwritten,Unknown,512x512,705.46,no,none
+d6684efb00,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.25.04.png,train,very_dark,handwritten,Unknown,512x512,1750.33,no,none
+6383d3f7e1,c:\Users\aarun\OneDrive\Documents\Zero-DCE-Notes-Enhancer\DERO_DCE_PREPROCESSED\WhatsApp Image 2026-04-06 at 22.25.42.png,test,very_dark,handwritten,Unknown,512x512,712.52,no,none

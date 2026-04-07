@@ -35,7 +35,7 @@ warnings.filterwarnings("ignore")
 # CONFIGURATION
 # ──────────────────────────────────────────────
 SCRIPT_DIR   = Path(__file__).parent
-DATASET_PATH = str(SCRIPT_DIR / "ZERO DCE DATASET")
+DATASET_PATH = str(SCRIPT_DIR.parent / "DERO_DCE_PREPROCESSED")
 OUTPUT_CSV   = str(SCRIPT_DIR / "image_metadata.csv")
 
 SUPPORTED_EXTENSIONS = {".jpg", ".jpeg", ".png", ".bmp", ".tiff", ".tif", ".webp"}
@@ -419,9 +419,15 @@ if __name__ == "__main__":
     DO_PHYSICAL_SPLIT = True
 
     if DO_PHYSICAL_SPLIT:
+        split_dataset_dir = SCRIPT_DIR / "SPLIT_DATASET"
+        if split_dataset_dir.exists():
+            try:
+                shutil.rmtree(split_dataset_dir)
+            except PermissionError:
+                print(f"Warning: Could not remove existing {split_dataset_dir}. It may be in use.")
         df = pd.read_csv(output_csv_path)
         physical_split(
             df,
-            split_dataset_dir = SCRIPT_DIR / "SPLIT_DATASET",
+            split_dataset_dir = split_dataset_dir,
             base_path         = Path(DATASET_PATH),   # required for FIX #2
         )

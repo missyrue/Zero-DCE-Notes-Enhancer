@@ -1,53 +1,115 @@
 
 
-#  OCR Pipeline & Image Preprocessing 
+# Zero-DCE Image Preprocessing Pipeline
 
-## 2. Image Preprocessing Pipeline 
+This document describes the preprocessing pipeline used to prepare images for Zero-DCE (Zero-Reference Deep Curve Estimation) model training. The pipeline is optimized for enhancing low-light images while preserving text clarity for OCR applications.
 
-### 2.1 Resizing (Interpolation)
+## Pipeline Overview
 
-* **Goal:** Standardize image dimensions.
-* **Method:** Resize image to a height of **1000–1200 pixels** using **Lanczos interpolation**.
+The preprocessing script (`data/preprocessing.py`) applies a series of transformations to raw input images:
+
+1. **Deskewing** - Corrects text alignment
+2. **Brightness/Contrast Enhancement** - Improves visibility using CLAHE
+3. **Background Cleaning** - Reduces noise while preserving edges
+4. **Sharpening** - Enhances text edges
+5. **Letterbox Resizing** - Standardizes dimensions to 512×512
+6. **Normalization** - Converts to float32 [0,1] range
+
+## Detailed Steps
+
+### 1. Deskewing
+
+* **Algorithm:** Hough transform-based skew detection
+* **Method:** Analyzes text lines to compute optimal rotation angle (-10° to +10°)
 * **Why:**
+  * Corrects misaligned documents/scans
+  * Improves OCR accuracy by aligning text horizontally
+  * Only applies correction if skew > 0.3°
 
-  * Prevents loss of detail in small text.
-  * Avoids unnecessary computation for very large (e.g., 4K) images.
-  * Ensures consistency across inputs.
+### 2. Brightness & Contrast Enhancement (CLAHE)
 
----
-
-### 2.2 Grayscale Conversion
-
-* **Goal:** Simplify image data.
-* **Method:** Convert from RGB (3 channels) → Grayscale (1 channel).
+* **Algorithm:** Contrast Limited Adaptive Histogram Equalization
+* **Parameters:** clipLimit=1.5, tileGridSize=(8,8)
 * **Why:**
+  * Enhances local contrast without over-saturating bright areas
+  * Improves visibility in shadowed regions
+  * Prevents loss of detail in high-contrast areas
 
-  * Reduces computational load by ~66%.
-  * Removes color noise irrelevant for text recognition.
+### 3. Background Cleaning
 
----
-
-### 2.3 Noise Removal
-
-* **Algorithm:** `cv2.fastNlMeansDenoising` (Non-Local Means)
-* **Alternative:** Gaussian Blur
+* **Algorithm:** Bilateral Filter
+* **Parameters:** d=3, sigmaColor=10, sigmaSpace=10
 * **Why:**
+  * Reduces noise while preserving edge sharpness
+  * Removes salt-and-pepper noise common in low-quality scans
+  * Bilateral filter maintains text boundaries better than Gaussian blur
 
-  * Eliminates **salt-and-pepper noise** common in low-light medical images.
-  * Preserves edges better than simple blurring.
+### 4. Sharpening
 
----
-
-### 2.4 Contrast Enhancement (CLAHE)
-
-* **Algorithm:** Contrast Limited Adaptive Histogram Equalization (CLAHE)
+* **Algorithm:** Unsharp masking with Gaussian blur
+* **Parameters:** sigma=0.5, strength=1.2
 * **Why:**
+  * Enhances text edge definition
+  * Improves OCR character recognition
+  * Compensates for slight blurring from previous steps
 
-  * Enhances contrast **locally** instead of globally.
-  * Prevents overexposure in bright areas.
-  * Improves readability in dark or shadowed regions.
+### 5. Letterbox Resizing
 
----
+* **Target Size:** 512×512 pixels
+* **Method:** Aspect-ratio preserving resize with black padding
+* **Interpolation:** Lanczos4 for maximum sharpness
+* **Why:**
+  * Standardizes input dimensions for neural network
+  * Preserves aspect ratio to avoid text distortion
+  * Black padding maintains consistent canvas size
+
+### 6. Normalization
+
+* **Output:** float32 array in range [0, 1]
+* **Method:** Divide by 255.0
+* **Why:**
+  * Prepares data for PyTorch tensor conversion
+  * Ensures consistent numerical range for model input
+
+## Output Format
+
+* **Format:** PNG (lossless compression)
+* **Color Space:** RGB
+* **Data Type:** float32 normalized [0, 1]
+* **Dimensions:** 512×512 pixels
+
+## Usage
+
+```bash
+python data/preprocessing.py \
+    --input_dir "data/ZERO DCE DATASET" \
+    --output_dir "DERO_DCE_PREPROCESSED" \
+    --size 512 \
+    --num_workers 8
+```
+
+## Performance Considerations
+
+* **Parallel Processing:** Uses multiprocessing pool for CPU-bound operations
+* **Memory Efficient:** Processes images one-by-one to handle large datasets
+* **Progress Tracking:** tqdm progress bar with ETA
+* **Error Handling:** Skips corrupted images with logging
+
+## OCR Optimization
+
+The pipeline is specifically tuned for OCR applications:
+
+- **No Grayscale Conversion:** Preserves color information for Zero-DCE
+- **Edge Preservation:** Bilateral filter and sharpening maintain text clarity
+- **Geometric Corrections:** Deskewing and resizing prevent character distortion
+- **Adaptive Enhancement:** CLAHE improves contrast without losing detail
+
+## File Handling
+
+* **Input Support:** JPG, JPEG, PNG, BMP
+* **Output:** Always PNG to prevent format conflicts
+* **Directory Structure:** Preserves relative paths from input to output
+* **Cleanup:** Automatically removes previous output directory on each run
 
 ### 2.5 Binarization (Adaptive Thresholding)
 
